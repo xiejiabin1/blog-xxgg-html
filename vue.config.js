@@ -26,7 +26,6 @@ module.exports = {
     sourceMap: true // source map
   },
 
-  
   /* webpack-dev-server 相关配置 */
   devServer: {
     /* 自动打开浏览器 */
